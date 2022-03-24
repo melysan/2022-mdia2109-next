@@ -33,7 +33,7 @@ export default function Home() {
           bg="#FDE8CA"
         >
           <h3>This is a children in the tag</h3>
-          More stuff
+          bork bork bork
           <hr />
           Yay
         </ImgCard>
